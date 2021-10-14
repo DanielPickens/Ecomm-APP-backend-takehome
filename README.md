@@ -60,9 +60,8 @@ python run.py
 * sudo apt-get install python-dev python-pip python3-dev python3-pip
 
 
-### Schema Design
 
-![Schema Design](https://cloud.githubusercontent.com/assets/5109996/16544181/087eb2c0-4119-11e6-9892-afbb2f4c648c.png)
+
 
 ### Usage
 

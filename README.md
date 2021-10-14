@@ -1,6 +1,6 @@
 # Ecommerce-rest-api
 
-Ecommerce-rest-app with rest api auth and post & search routes which supports CRUD operation of products and sellers.
+Ecommerce-backend-app with  post & search routes which supports CRUD operation of products and sellers.
 
 **Endpoints**
 

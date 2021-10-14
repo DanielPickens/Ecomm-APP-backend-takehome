@@ -1,6 +1,6 @@
 # Ecommerce-rest-api
 
-Ecommerce-rest-api is an authenticated rest api which supports CRUD operation of products and sellers.
+Ecommerce-rest-app with rest api auth and post & search routes which supports CRUD operation of products and sellers.
 
 **Endpoints**
 
@@ -16,7 +16,7 @@ Ecommerce-rest-api is an authenticated rest api which supports CRUD operation of
 | DELETE | /products      |    delete |    delete product specifying id |
 
 ### Deployment
-The app is deployed on [https://ecommerce-rest-api.herokuapp.com](https://ecommerce-rest-api.herokuapp.com)
+The app is deployed on ()
 
 ### Summary
 - A seller can create, read, update and delete his own products.
@@ -36,7 +36,7 @@ Dillinger uses a number of open source projects to work properly:
 
 
 ```sh
-$ git clone  https://github.com/eternalfool/ecommerce-rest-api.git
+$ git clone  https://github.com/DanielPickens/Ecomm-APP-backend-takehome
 $ cd ecommerce-rest-api/
 $ python setup.py
 ```
@@ -93,8 +93,8 @@ Response:
 
     {
 	"name": "Lifebouy",
-	"description1": "Tandarusti ki raksha karta hai lifebouy",
-	"description2": "Lifebouy hai jahan tandarusti hai wahan",
+	"description1": "slkslksdflkds",
+	"description2": "slksdkljskjsd",
 	"sku_id": "SKU-86e467-UKS",
 	"price": "99.95",
 	"image_urls": "['http://www.lifebuoy.co.za/Resources/Images/logo.gif']",
@@ -118,8 +118,8 @@ Response:
     {
     "id": 41,
     "name": "Dettol",
-    "description1": "Dettol Dettol Dettol Dettol",
-    "description2": "Dettol Dettol Dettol Dettol Ho",
+    "description1": "alkaoiewoiewojeoel",
+    "description2": "Dskjsakjsakjaskjaskjas",
     "sku_id": "SKU-96ghi7-UKS",
     "price": "95.95",
     "image_urls": "['http://www.dettol.co.in/media/1463092/Dettol-original-Soap-Packshot-300-X-600.jpg']",
@@ -201,7 +201,6 @@ Response:
    [Flask]: <http://flask.pocoo.org/>
    [Mysql]: <https://www.mysql.com/>
    [Sqlalchemy]: <http://www.sqlalchemy.org/>
-   [@thomasfuchs]: <http://twitter.com/thomasfuchs>
-
+  
 
 

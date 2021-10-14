@@ -1,4 +1,4 @@
-# Ecommerce-rest-api
+# Ecommerce-Flask backend app
 
 Ecommerce-backend-app with  post & search routes which supports CRUD operation of products and sellers.
 

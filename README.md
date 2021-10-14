@@ -1,6 +1,6 @@
-# Ecommerce-Flask backend app
+# Ecommerce-App using Flask and MySQL
 
-Ecommerce-backend-app with  post & search routes which supports CRUD operation of products and sellers.
+Ecommerce-backend-app with post & search routes which supports CRUD operation of products and sellers.
 
 **Endpoints**
 

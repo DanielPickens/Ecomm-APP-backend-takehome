@@ -26,7 +26,7 @@ The app is deployed on ()
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
+ uses a number of open source projects to work properly:
 * [Flask] - Flask is a micro web framework written in Python
 * [Mysql] - an open-source relational database management system
 * [sqlalchemy] - An object-relational mapper (ORM) for Python
@@ -37,7 +37,7 @@ Dillinger uses a number of open source projects to work properly:
 
 ```sh
 $ git clone  https://github.com/DanielPickens/Ecomm-APP-backend-takehome
-$ cd ecommerce-rest-api/
+$ cd ecomm-app-backend-takehome
 $ python setup.py
 ```
 To run application:
@@ -189,9 +189,7 @@ Response:
  - Read log configurations from a file.
  - Pagination on get_products.
  - bulk creation / deletion of products.
- - add more information to unauthorized requests (get token by invalid username, duplicate username while creating seller)
- - Write negative test cases.
- - Make deployment of db automated using sqlalchemy
+ - 
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
